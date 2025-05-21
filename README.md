@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: Python, javascript
+  🦄 Linguagens: Python, Django, Flask, FastAPI, Flet 
 </p>
 
 <p align="left">
-  💼 Ferramentas: Django, flask, FastAPI, Flet
+  💼 Ferramentas: PostgrSQL, MongoDB, MYSQL 
 </p>
 
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuanSilveiraDev&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats">
